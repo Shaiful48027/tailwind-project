@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card{
+    background-image: url(../images/bg.jpg);
+    position: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
